@@ -1,0 +1,12 @@
+cv2     	-  pip install opencv-python opencv-contrib-python
+numpy   	-  pip install numpy
+imutils 	-  pip install imutils
+runipy  	-  pip install runipy
+cmake   	-  pip install cmake
+dlib    	-  pip install dlib from pypi.org/simple/dlib
+face_recognition - pip install face_recognition
+tkinter 	-  pip install python-tk
+tensorflow 	-  pip install tflearn tensorflow tensorboard tensorflow-estimator tensorflow-gpu
+keras   	-  pip install keras
+pandas  	-  pip install pandas
+pillow  	-  pip install pillow
